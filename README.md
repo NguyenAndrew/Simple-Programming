@@ -29,7 +29,7 @@ Examples:
 
 ---
 
-**Non-Simple Curve** - The usage of processors can only be place on a [curve that croses itself](https://mathworld.wolfram.com/SimpleCurve.html).
+**Non-Simple Curve** - The usage of processors can only be placed on a [curve that croses itself](https://mathworld.wolfram.com/SimpleCurve.html).
 
 Examples:
 * A -> B -> C -> B
