@@ -1,7 +1,9 @@
 # Simple Programming
-Simple Programming is a programming paradigm that states, "To make the most maintainable software: All input processors processors form a [simple curve](https://mathworld.wolfram.com/SimpleCurve.html) in any base success case'". 
+Simple Programming is a programming paradigm that states:
 
-Additionally, Branching/Exception logic should also try to be a simple curve, when possible.
+**To make the most maintainable software: All input processors form a [simple curve](https://mathworld.wolfram.com/SimpleCurve.html), for any base success case.** 
+
+Additionally, branching/exception logic should also be a simple curve, when possible.
 
 ## Glossary ##
 
