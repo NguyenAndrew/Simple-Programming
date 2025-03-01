@@ -1,7 +1,7 @@
 # Simple Programming
 Simple Programming is a programming paradigm that states,
 
-**To make the most maintainable software: All input processors form a [simple curve](https://mathworld.wolfram.com/SimpleCurve.html), for any base success case.** 
+**To make the most maintainable software: All input processors form a simple curve, for any base success case.** 
 
 Here is a video explaining the Simple Programming Paradigm - https://youtu.be/rcns0WBB9Ww
 
